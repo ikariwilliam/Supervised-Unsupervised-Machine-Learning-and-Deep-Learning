@@ -118,11 +118,11 @@ Each exercise has a self-check **Test Cell** that tells you immediately whether 
 ## Learning Path
 
 ```
-Week 1: Supervised Learning basics → Classification → Regression
-Week 2: Data Preprocessing → Feature Engineering → Model Evaluation
-Week 3: Unsupervised Learning (Clustering & PCA) → Neural Network Basics
-Week 4: Deep Learning in Python → Overfitting Prevention → Practice Exercises
-Week 5: Build your own end-to-end ML project!
+Day 1-2: Supervised Learning basics → Classification → Regression
+Day 2-3: Data Preprocessing → Feature Engineering → Model Evaluation
+Day 4-5: Unsupervised Learning (Clustering & PCA) → Neural Network Basics
+Day 6-7: Deep Learning in Python → Overfitting Prevention → Practice Exercises
+Day 8-12: Build your own end-to-end ML project!
 ```
 
 ## Resources for Further Learning
